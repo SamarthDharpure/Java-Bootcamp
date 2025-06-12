@@ -10,7 +10,7 @@
 - ✅ Core & advance java concepts
 - ✅ Impressive Real world ideas & projects
 - ✅ Preparation for MAANG-level interviews and competitive exams
-- ✅  Display of world class efficiency, consistency, skills with structure for recruiters & developers
+- ✅ Display of world class efficiency, consistency, skills with structure for recruiters & developers
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
