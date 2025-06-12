@@ -40,6 +40,6 @@ Stay connected & updated with my journey in the field of Technology & Entreprene
 
 <img src="https://github.com/user-attachments/assets/3b73685e-87d9-4396-86d2-791352e99da8" alt="JAVA" width="150"/>
 
-## 🖊️ Author - Samarth Dharprue
+## 🖊️ Author - Samarth Dharpure
 
 ⭐ **Star this repository** to follow along or 🔗 **fork to start** your own journey ☺️
