@@ -20,7 +20,7 @@
 
 | Folder | Description |
 |--------|-------------|
-| `Chapter - 01` | Introduction |
+| `Problem Solving Journey` | Coding Challenges |
 
 ## 🛠 Tools & IDE
 
