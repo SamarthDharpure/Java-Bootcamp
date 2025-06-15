@@ -1,8 +1,8 @@
-// Array Utility
 import java.util.Scanner;
+
 public class ArrayUtility {
   
-    // Utility code for inputing array
+    // Utility code
     public static int[] inputArray() {
         Scanner input = new Scanner(System.in);
         System.out.print("Please enter the number of elements: ");
@@ -17,7 +17,7 @@ public class ArrayUtility {
         return nums;
     }
   
-    // Utility code for inputing 2D array
+    // Utility code
     public static int[][] input2DArray() {
         Scanner input = new Scanner(System.in);
         System.out.print("Please enter the number of rows: ");
@@ -40,7 +40,7 @@ public class ArrayUtility {
         return numArray;
     }
   
-    // Utility code for displaying array
+    // Utility code
     public static void displayArray(int[] numArray) {
         int i = 0;
         while (i < numArray.length) {
